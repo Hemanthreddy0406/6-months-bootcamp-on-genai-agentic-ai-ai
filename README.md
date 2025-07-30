@@ -1,0 +1,1 @@
+# 6-months-bootcamp-on-genai-agentic-ai-ai
