@@ -8,3 +8,4 @@ Data structures->aug 1st
 list and its methods->aug 2nd
 tuple,tuple methods,range function->aug 4th
 Set and its operations->aug 5th
+superset,subset,disjoint and dictionary->aug 6th
