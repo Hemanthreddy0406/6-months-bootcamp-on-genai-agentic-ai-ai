@@ -1,0 +1,10 @@
+#PYTHON#
+Data types
+Print,end,delimeter
+Variable declaration
+Type casting
+Working with CLI(Terminal)
+Data structures->aug 1st
+list and its methods->aug 2nd
+tuple,tuple methods,range function->aug 4th
+Set and its operations->aug 5th
