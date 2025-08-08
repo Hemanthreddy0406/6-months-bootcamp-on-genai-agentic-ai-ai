@@ -9,3 +9,5 @@ list and its methods->aug 2nd
 tuple,tuple methods,range function->aug 4th
 Set and its operations->aug 5th
 superset,subset,disjoint and dictionary->aug 6th
+Operators in python->aug 7th
+modules and input() function->aug 8th
