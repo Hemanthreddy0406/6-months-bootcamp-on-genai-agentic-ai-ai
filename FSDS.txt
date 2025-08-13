@@ -1,4 +1,4 @@
-#PYTHON#
+6_months_bootcamp_on_generative ai_agentic ai_and_ai
 Data types
 Print,end,delimeter
 Variable declaration
@@ -11,3 +11,6 @@ Set and its operations->aug 5th
 superset,subset,disjoint and dictionary->aug 6th
 Operators in python->aug 7th
 modules and input() function->aug 8th
+Introduction to Numpy->aug 11th
+Working with Numpy->aug 12th
+IPL dataset visualization project using python->aug 13th
