@@ -14,3 +14,5 @@ modules and input() function->aug 8th
 Introduction to Numpy->aug 11th
 Working with Numpy->aug 12th
 IPL dataset visualization project using python->aug 13th
+Introduction to Pandas->aug 14th
+Working with pandas->aug 18th
